@@ -1,0 +1,3 @@
+- insert:
+    - id: mcp-toggle
+      name: ./bootstrap.js
